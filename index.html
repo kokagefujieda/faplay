@@ -1,0 +1,44 @@
+<html>
+<head>
+<meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">  <!-- iOS/Safari用 -->
+  <meta name="mobile-web-app-capable" content="yes">  <!-- Android/Chrome用 -->
+    <title>faplay Ω||Ω bation</title>
+<STYLE TYPE="text/css"> 
+BODY { 
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  cursor: none;
+} 
+video,canvas {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 99999999;
+    background-size: cover;
+}
+</STYLE>
+</head>
+<body bgcolor="gray">
+
+	<video id='myvideo' autoplay="autoplay" ></video>
+	<canvas id="canvas" ></canvas>
+
+	<script src="./js/pixi.min.js"></script>
+<!--	<script src="https://cdn.jsdelivr.net/npm/pixi-filters@2.6.1/dist/pixi-filters.js"></script> -->
+	<script src="./js/live2dcubismcore.min.js"></script>
+	<script src="./js/live2dcubismframework.js"></script>
+	<script src="./js/live2dcubismpixi.js"></script>
+	<script src="./js/howler.core.js"></script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/handtrackjs/dist/handtrack.min.js"></script>-->
+    <script src="./js/handtrack2.js"> </script>
+    <script src="./js/main.js"> </script>
+
+</body>
+</html>

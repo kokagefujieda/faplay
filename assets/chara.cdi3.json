@@ -1,0 +1,345 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "口 開閉"
+		},
+		{
+			"Id": "Eyehi",
+			"GroupId": "",
+			"Name": "Eyehi"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "照れ"
+		},
+		{
+			"Id": "Tear",
+			"GroupId": "",
+			"Name": "Tear"
+		},
+		{
+			"Id": "Sweat",
+			"GroupId": "",
+			"Name": "Sweat"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "ParamShoulderRX",
+			"GroupId": "",
+			"Name": "R Shoulder X"
+		},
+		{
+			"Id": "ParamShoulderRY",
+			"GroupId": "",
+			"Name": "R Shoulder Y"
+		},
+		{
+			"Id": "ParamShoulderLX",
+			"GroupId": "",
+			"Name": "L Shoulder X"
+		},
+		{
+			"Id": "ParamShoulderLY",
+			"GroupId": "",
+			"Name": "L Shoulder Y"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "ParamMan",
+			"GroupId": "",
+			"Name": "Man"
+		},
+		{
+			"Id": "ParamRBstX",
+			"GroupId": "",
+			"Name": "R Bst X"
+		},
+		{
+			"Id": "ParamRBstY",
+			"GroupId": "",
+			"Name": "R Bst Y"
+		},
+		{
+			"Id": "ParamLBstX",
+			"GroupId": "",
+			"Name": "L Bst X"
+		},
+		{
+			"Id": "ParamLBstY",
+			"GroupId": "",
+			"Name": "L Bst Y"
+		},
+		{
+			"Id": "Nip",
+			"GroupId": "",
+			"Name": "Nip"
+		},
+		{
+			"Id": "ParamBstPhyX",
+			"GroupId": "",
+			"Name": "BstPhyX"
+		},
+		{
+			"Id": "ParamBstPhyY",
+			"GroupId": "",
+			"Name": "BstPhyY"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉 変形"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉 変形"
+		},
+		{
+			"Id": "Heart",
+			"GroupId": "",
+			"Name": "Heart"
+		},
+		{
+			"Id": "EarR",
+			"GroupId": "",
+			"Name": "EarR"
+		},
+		{
+			"Id": "EarL",
+			"GroupId": "",
+			"Name": "EarL"
+		},
+		{
+			"Id": "Count0",
+			"GroupId": "",
+			"Name": "Count0"
+		},
+		{
+			"Id": "Count00",
+			"GroupId": "",
+			"Name": "Count00"
+		},
+		{
+			"Id": "Count000",
+			"GroupId": "",
+			"Name": "Count000"
+		},
+		{
+			"Id": "Level",
+			"GroupId": "",
+			"Name": "Level"
+		},
+		{
+			"Id": "Stain",
+			"GroupId": "",
+			"Name": "Stain"
+		},
+		{
+			"Id": "Drip",
+			"GroupId": "",
+			"Name": "Drip"
+		},
+		{
+			"Id": "DripAlpha",
+			"GroupId": "",
+			"Name": "DripAlpha"
+		},
+		{
+			"Id": "DripX",
+			"GroupId": "",
+			"Name": "DripX"
+		},
+		{
+			"Id": "Drip2",
+			"GroupId": "",
+			"Name": "Drip2"
+		},
+		{
+			"Id": "ArmRX",
+			"GroupId": "",
+			"Name": "ArmRX"
+		},
+		{
+			"Id": "ArmRY",
+			"GroupId": "",
+			"Name": "ArmRY"
+		},
+		{
+			"Id": "ArmRON",
+			"GroupId": "",
+			"Name": "ArmRON"
+		},
+		{
+			"Id": "ArmPiece",
+			"GroupId": "",
+			"Name": "ArmPiece"
+		},
+		{
+			"Id": "ArmLX",
+			"GroupId": "",
+			"Name": "ArmLX"
+		},
+		{
+			"Id": "ArmLY",
+			"GroupId": "",
+			"Name": "ArmLY"
+		},
+		{
+			"Id": "ArmLON",
+			"GroupId": "",
+			"Name": "ArmLON"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part12",
+			"Name": "nipy_wear.psd（対応無し）"
+		},
+		{
+			"Id": "Part9",
+			"Name": "nipy_wear.psd（対応無し）"
+		},
+		{
+			"Id": "Part8",
+			"Name": "nipy_wear.psd（対応無し）"
+		},
+		{
+			"Id": "Bst",
+			"Name": "Bst"
+		},
+		{
+			"Id": "Part",
+			"Name": "Hair_front(Hrf)"
+		},
+		{
+			"Id": "head",
+			"Name": "head"
+		},
+		{
+			"Id": "Breast",
+			"Name": "Breast"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Hair_back(Hrb)"
+		},
+		{
+			"Id": "head4",
+			"Name": "head"
+		},
+		{
+			"Id": "head3",
+			"Name": "head"
+		},
+		{
+			"Id": "mouth2",
+			"Name": "mouth"
+		},
+		{
+			"Id": "Eye",
+			"Name": "Eye"
+		},
+		{
+			"Id": "face",
+			"Name": "face"
+		},
+		{
+			"Id": "stopwatch3",
+			"Name": "stopwatch"
+		},
+		{
+			"Id": "stopwatch",
+			"Name": "stopwatch"
+		},
+		{
+			"Id": "Part3",
+			"Name": "パーツ11"
+		},
+		{
+			"Id": "eye",
+			"Name": "eye"
+		},
+		{
+			"Id": "mouth",
+			"Name": "mouth"
+		}
+	]
+}
